@@ -4,10 +4,14 @@ package com.example.project;
  * Computer
  */
 public class Computer {
+
+    //Attributes
+
     private int id;
     private String memory;
     private String cpu; 
     private String storage;
+
     public Computer(int id, String memory, String cpu, String storage){
         this.id = id;
         this.cpu = cpu;

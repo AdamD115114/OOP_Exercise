@@ -5,3 +5,14 @@ package com.example.project;
 // Size
 // Type
 // Brand
+
+
+/**
+ * Storage
+ */
+public class Storage {
+
+    public Storage(){
+
+    }
+}
